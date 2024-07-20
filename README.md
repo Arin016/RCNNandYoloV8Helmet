@@ -38,11 +38,9 @@ The second project utilizes the state-of-the-art YOLOv8 model (Medium Version), 
 - **Results:**
   - The model accurately predicted helmet and head classes with good confidence.
   - Some redundant boxes were predicted.
-  - mAP@0.5 Value: ![mAP@0.5](444.png)
+  - mAP@0.5 Value: ![mAP@0.5](5.svg)
 
-    
-
-![YOLOv8 Predictions](5.svg)
+![YOLOv8 Predictions](444.png)
 
 ## Comparison of Models
 
