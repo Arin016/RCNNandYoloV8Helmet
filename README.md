@@ -40,6 +40,8 @@ The second project utilizes the state-of-the-art YOLOv8 model (Medium Version), 
   - Some redundant boxes were predicted.
   - mAP@0.5 Value: ![mAP@0.5](444.png)
 
+    
+
 ![YOLOv8 Predictions](5.svg)
 
 ## Comparison of Models
