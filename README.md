@@ -13,8 +13,8 @@ The dataset used in these projects is sourced from Kaggle and contains 5000 imag
 - **Classes:** Helmet, Head, Person
 - **Partition:** 80% Train, 10% Validation, 10% Test
 
-![Dataset Distribution](![image](https://github.com/user-attachments/assets/62dec95a-9c41-4e13-aa57-1595b177c297)
-)
+![Dataset Distribution](images/1.png)
+
 
 ## Project 1: Faster R-CNN
 
